@@ -17,19 +17,7 @@ namespace El_Nada
             InitializeComponent();
         }
 
-        /*
-
-
-
-        ; CREATE TABLE `SystemUsers`(
-            `User_ID` INT AUTO_INCREMENT NOT NULL,
-            `User_Name` VARCHAR(50) NULL,
-            `User_Password` VARCHAR(50) NULL,
-            `User_Type` VARCHAR(20) NULL,
-            PRIMARY KEY (`User_ID`)
-        ) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
-         */
+      
 
         private void button1_Click(object sender, EventArgs e)
         {
