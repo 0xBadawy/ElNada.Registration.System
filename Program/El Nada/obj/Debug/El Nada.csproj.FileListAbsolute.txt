@@ -1,0 +1,38 @@
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\El Nada.exe.config
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\El Nada.exe
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\El Nada.pdb
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Data.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Drawing.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Images.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Utils.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraBars.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\MySql.Data.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Data.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Drawing.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Utils.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraBars.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\MySql.Data.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+H:\projects\El Nada New System\Program\El Nada\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.csproj.AssemblyReference.cache
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El_Nada.Properties.Resources.resources
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El_Nada.MainForm.resources
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.csproj.GenerateResource.cache
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.exe.licenses
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.csproj.CoreCompileInputs.cache
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.csproj.CopyComplete
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.exe
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.pdb
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El_Nada.AddData.resources
