@@ -36,3 +36,4 @@ H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.csproj.CopyComp
 H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.exe
 H:\projects\El Nada New System\Program\El Nada\obj\Debug\El Nada.pdb
 H:\projects\El Nada New System\Program\El Nada\obj\Debug\El_Nada.AddData.resources
+H:\projects\El Nada New System\Program\El Nada\obj\Debug\El_Nada.Forms.FormInsertData.resources

@@ -13,7 +13,7 @@ namespace El_Nada
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AddData());
+            Application.Run(new Forms.FormInsertData());
         }
     }
 }

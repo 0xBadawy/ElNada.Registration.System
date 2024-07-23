@@ -33,6 +33,15 @@
     PRIMARY KEY (`Husband_ID`)
 )
 
+-- alert table and edit table to add column to table TB_Customer_Husband Education_Level_Txt VARCHAR(50) NULL;
+
+
+
+
+
+
+
+
 
 
 ; CREATE TABLE `TB_Customer_Family_Members` (

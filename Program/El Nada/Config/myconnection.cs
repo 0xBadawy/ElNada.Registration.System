@@ -28,6 +28,47 @@ namespace El_Nada.Config
             }
         }
 
+
+        public static List<Dictionary<string, object>> get_data(string sql, Dictionary<string, object> parameters)
+        {
+            List<Dictionary<string, object>> result = new List<Dictionary<string, object>>();
+
+            try
+            {
+                using (MySqlCommand cmd = new MySqlCommand(sql, connection))
+                {
+                    foreach (var param in parameters)
+                    {
+                        cmd.Parameters.AddWithValue(param.Key, param.Value);
+                    }
+
+                    using (MySqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            Dictionary<string, object> row = new Dictionary<string, object>();
+
+                            for (int i = 0; i < reader.FieldCount; i++)
+                            {
+                                row[reader.GetName(i)] = reader.GetValue(i);
+                            }
+
+                            result.Add(row);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occurred: " + ex.Message);
+                // Optionally, log the exception or handle it as needed
+            }
+
+            return result;
+        }
+
+
+
         public static void add_sql(string sql, Dictionary<string, object> parameters)
         {
             try
@@ -47,12 +88,26 @@ namespace El_Nada.Config
                 Console.WriteLine("An error occurred: " + ex.Message);
                 // Optionally, log the exception or handle it as needed
             }
-            finally
+        }
+
+        public static object execute_scalar(string sql, Dictionary<string, object> parameters)
+        {
+            try
             {
-                if (connection.State == System.Data.ConnectionState.Open)
+                using (MySqlCommand cmd = new MySqlCommand(sql, connection))
                 {
-                    connection.Close();
+                    foreach (var param in parameters)
+                    {
+                        cmd.Parameters.AddWithValue(param.Key, param.Value);
+                    }
+                    return cmd.ExecuteScalar();
                 }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occurred: " + ex.Message);
+                return null;
+                // Optionally, log the exception or handle it as needed
             }
         }
     }
